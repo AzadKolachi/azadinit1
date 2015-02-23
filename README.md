@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="http://rawgithub.com/use-init/init/master/logo.svg" alt="INIT" title="INIT" width="200">
 
 This project is based upon
@@ -120,3 +121,7 @@ and optimized by [Stefan Nitzsche](http://www.stn.my/).
 Please be aware of the licenses of each component we use in this project.
 Everything else that has been developed by the contributions to this project is
 under [MIT License](LICENSE.md).
+=======
+# azadinit1
+use-init.com
+>>>>>>> 1f435baa1ae5568a24988b9a356a3a8d3a31317c
